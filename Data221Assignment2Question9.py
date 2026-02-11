@@ -1,7 +1,6 @@
 #Fahim Ahmadi
 #30268421 Feb 3rd 2026
-#Fahim Ahmadi
-#30268421 Feb 3rd 2026
+
 
 import csv
 import requests
@@ -107,3 +106,4 @@ def main():
     print("Rows saved:", len(matrix))
 
 main()
+
